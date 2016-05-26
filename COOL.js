@@ -10,7 +10,7 @@ $(document).ready(function(){
 
 });
 
-function Look
+function 
 function MOVINGMYLIFEAROUND(){
     var height = $(window).height()-50;
     var width = $(window).width()-50;
