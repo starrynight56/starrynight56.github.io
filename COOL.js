@@ -10,7 +10,7 @@ $(document).ready(function(){
 
 });
 
-function 
+function
 function MOVINGMYLIFEAROUND(){
     var height = $(window).height()-50;
     var width = $(window).width()-50;
@@ -23,7 +23,7 @@ function MOVINGMYLIFEAROUND(){
 
 function MAkeTHisMofofly(){
     var NEWYeaR = MOVINGMYLIFEAROUND();
-    $(#clickme).animate({ top: newq[0], left: newq[1] },function(){
+    $('#clickme').animate({ top: newq[0], left: newq[1] },function(){
       animateDiv();
     });
 }
