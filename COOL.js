@@ -14,10 +14,10 @@ function MOVINGMYLIFEAROUND(){
     var height = $(window).height()-50;
     var width = $(window).width()-50;
 
-    var newheight = Math.floor(Math.random() * height))
-    var newwitdth = Math.floor(Math.random() * width))
+    var newheight = Math.floor(Math.random() * height);
+    var newwitdth = Math.floor(Math.random() * width);
 
-    return [newheight,newwidth]
+    return [newheight,newwidth];
 }
 
 function MAkeTHisMofofly(){
