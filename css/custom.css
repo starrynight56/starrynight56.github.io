@@ -1,0 +1,23 @@
+/*
+FILE NAME: custom.css
+WRITTEN BY: Rosanne Hu
+DATE: May 20, 2015
+PURPOSE: Css file for Rosanne's cool website
+*/
+
+body {
+  position:relative;
+}
+#clickme {
+  width: 100px;
+  height:100px;
+  background-color:red;
+  position:fixed;
+  word-wrap: break-word;
+
+
+}
+
+a {
+  text-decoration: none;
+}
