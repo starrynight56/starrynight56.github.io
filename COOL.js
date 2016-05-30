@@ -10,7 +10,6 @@ $(document).ready(function(){
 
 });
 
-function
 function MOVINGMYLIFEAROUND(){
     var height = $(window).height()-50;
     var width = $(window).width()-50;
